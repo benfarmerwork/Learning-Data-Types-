@@ -1,0 +1,9 @@
+C:\Users\BENS\Documents\Visual Studio 2015\Projects\Numbers\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\BENS\Documents\Visual Studio 2015\Projects\Numbers\Numbers\obj\Debug\Numbers.csprojResolveAssemblyReference.cache
+C:\Users\BENS\Documents\Visual Studio 2015\Projects\Numbers\Numbers\obj\Debug\Numbers.Form1.resources
+C:\Users\BENS\Documents\Visual Studio 2015\Projects\Numbers\Numbers\obj\Debug\Numbers.Properties.Resources.resources
+C:\Users\BENS\Documents\Visual Studio 2015\Projects\Numbers\Numbers\obj\Debug\Numbers.csproj.GenerateResource.Cache
+C:\Users\BENS\Documents\Visual Studio 2015\Projects\Numbers\Numbers\bin\Debug\Numbers.exe
+C:\Users\BENS\Documents\Visual Studio 2015\Projects\Numbers\Numbers\bin\Debug\Numbers.pdb
+C:\Users\BENS\Documents\Visual Studio 2015\Projects\Numbers\Numbers\obj\Debug\Numbers.exe
+C:\Users\BENS\Documents\Visual Studio 2015\Projects\Numbers\Numbers\obj\Debug\Numbers.pdb
